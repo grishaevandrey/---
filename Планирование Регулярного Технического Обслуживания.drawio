@@ -1,0 +1,174 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 YaBrowser/24.10.0.0 Safari/537.36" version="24.8.6">
+  <diagram name="Страница — 1" id="vBUQyoy-SMuvKMTd4aST">
+    <mxGraphModel dx="954" dy="1772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aEoq8TxtILYcBIewA853-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aEoq8TxtILYcBIewA853-1" target="aEoq8TxtILYcBIewA853-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aEoq8TxtILYcBIewA853-1" value="&#xa;&lt;h2 style=&quot;font-size: 8px;&quot; data-pm-slice=&quot;1 1 []&quot;&gt;Старт&lt;/h2&gt;&lt;p style=&quot;font-size: 8px;&quot;&gt;Начало процесса с первоначальными подготовками и сбором необходимой информации&lt;/p&gt;&#xa;&#xa;" style="ellipse;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="360" y="100" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aEoq8TxtILYcBIewA853-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="aEoq8TxtILYcBIewA853-2" target="aEoq8TxtILYcBIewA853-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aEoq8TxtILYcBIewA853-2" value="&#xa;&lt;h2 data-pm-slice=&quot;1 1 []&quot; style=&quot;font-size: 7px;&quot;&gt;Идентификация оборудования&lt;/h2&gt;&lt;p style=&quot;font-size: 7px;&quot;&gt;Определение всего оборудования, требующего технического обслуживания.&lt;/p&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="360" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aEoq8TxtILYcBIewA853-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aEoq8TxtILYcBIewA853-3" target="aEoq8TxtILYcBIewA853-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aEoq8TxtILYcBIewA853-3" value="&#xa;&lt;h2 style=&quot;font-size: 8px;&quot; data-pm-slice=&quot;1 1 []&quot;&gt;Составление списка&lt;/h2&gt;&lt;p style=&quot;font-size: 8px;&quot;&gt;Собрать полный список всего оборудования для оценки состояния.&lt;/p&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="360" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aEoq8TxtILYcBIewA853-5" value="&lt;h2 data-pm-slice=&quot;1 1 []&quot;&gt;Оценка состояния&lt;/h2&gt;&lt;p style=&quot;font-size: 7px;&quot;&gt;Проверка текущего состояния оборудования для определения необходимости обслуживания.&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="480" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aEoq8TxtILYcBIewA853-6" value="&lt;h2 style=&quot;font-size: 10px;&quot; data-pm-slice=&quot;1 1 []&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Визуальный осмотр&lt;/font&gt;&lt;/h2&gt;&lt;p style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Проведение визуального осмотра оборудования на наличие видимых неисправностей.&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="105" y="580" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="aEoq8TxtILYcBIewA853-7" value="&lt;h2 style=&quot;font-size: 10px;&quot; data-pm-slice=&quot;1 1 []&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Диагностические тесты&lt;/font&gt;&lt;/h2&gt;&lt;p style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Выполнение диагностических тестов, таких как анализ вибраций, для проверки работоспособности.&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="580" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aEoq8TxtILYcBIewA853-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aEoq8TxtILYcBIewA853-8" target="aEoq8TxtILYcBIewA853-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aEoq8TxtILYcBIewA853-8" value="&lt;h2 style=&quot;font-size: 10px;&quot; data-pm-slice=&quot;1 1 []&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Разработка плана ТО&lt;/font&gt;&lt;/h2&gt;&lt;p style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Создание детализированного плана для предстоящих работ&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="730" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="aEoq8TxtILYcBIewA853-11" value="&lt;h2 data-pm-slice=&quot;1 1 []&quot;&gt;Классификация&lt;/h2&gt;&lt;p style=&quot;font-size: 10px;&quot;&gt;Классификация оборудования по категориям и типам, например, механическое или электрическое.&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="380" width="290" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="aEoq8TxtILYcBIewA853-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.534;entryY=0.042;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aEoq8TxtILYcBIewA853-11" target="aEoq8TxtILYcBIewA853-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aEoq8TxtILYcBIewA853-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="aEoq8TxtILYcBIewA853-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="615" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aEoq8TxtILYcBIewA853-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="aEoq8TxtILYcBIewA853-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="615" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aEoq8TxtILYcBIewA853-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aEoq8TxtILYcBIewA853-35" target="aEoq8TxtILYcBIewA853-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aEoq8TxtILYcBIewA853-35" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="389" y="590" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aEoq8TxtILYcBIewA853-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.34;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aEoq8TxtILYcBIewA853-5" target="aEoq8TxtILYcBIewA853-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aEoq8TxtILYcBIewA853-46" value="&lt;span style=&quot;font-family: Inter, sans-serif, system-ui, serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 10px; font-weight: 400; text-align: left; text-wrap: wrap; background-color: rgb(230, 232, 233);&quot;&gt;Планирование Регулярного Технического Обслуживания&lt;/span&gt;" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="24" y="10" width="780" height="1960" as="geometry" />
+        </mxCell>
+        <mxCell id="aEoq8TxtILYcBIewA853-47" value="Служба ТО главного инженера&amp;nbsp;" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="aEoq8TxtILYcBIewA853-46">
+          <mxGeometry y="20" width="780" height="880" as="geometry" />
+        </mxCell>
+        <mxCell id="aEoq8TxtILYcBIewA853-9" value="&lt;h2 style=&quot;font-size: 10px;&quot; data-pm-slice=&quot;1 1 []&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Определение операций&lt;/font&gt;&lt;/h2&gt;&lt;p style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Определение необходимых операций по техническому обслуживанию и их сроки&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aEoq8TxtILYcBIewA853-47">
+          <mxGeometry x="135" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aEoq8TxtILYcBIewA853-10" value="&lt;h2 style=&quot;font-size: 10px;&quot; data-pm-slice=&quot;1 1 []&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Утверждение плана&lt;/font&gt;&lt;/h2&gt;&lt;p style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Утверждение созданного плана с руководством.&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aEoq8TxtILYcBIewA853-47">
+          <mxGeometry x="560" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aEoq8TxtILYcBIewA853-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="aEoq8TxtILYcBIewA853-47" source="aEoq8TxtILYcBIewA853-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="825" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aEoq8TxtILYcBIewA853-41" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="aEoq8TxtILYcBIewA853-47">
+          <mxGeometry x="365" y="800" width="56.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aEoq8TxtILYcBIewA853-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.029;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="aEoq8TxtILYcBIewA853-47" source="aEoq8TxtILYcBIewA853-41" target="aEoq8TxtILYcBIewA853-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aEoq8TxtILYcBIewA853-49" value="Отдел технического обслуживания оборудования" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="aEoq8TxtILYcBIewA853-46">
+          <mxGeometry y="900" width="780" height="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="aEoq8TxtILYcBIewA853-61" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="aEoq8TxtILYcBIewA853-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="264.5" as="targetPoint" />
+            <mxPoint x="390" y="194.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aEoq8TxtILYcBIewA853-52" value="&lt;h2 data-pm-slice=&quot;1 1 []&quot;&gt;Уведомление о ТО&lt;/h2&gt;&lt;p style=&quot;font-size: 7px;&quot;&gt;Информирование о предстоящих мероприятиях по техническому обслуживанию.&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aEoq8TxtILYcBIewA853-49">
+          <mxGeometry x="310" y="100" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="aEoq8TxtILYcBIewA853-53" value="&lt;h2 data-pm-slice=&quot;1 1 []&quot; style=&quot;font-size: 11px;&quot;&gt;Подготовка уведомлений&lt;/h2&gt;&lt;p style=&quot;font-size: 11px;&quot;&gt;Формирование и подготовка уведомлений о предстоящем ТО для персонала.&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="aEoq8TxtILYcBIewA853-49">
+          <mxGeometry x="80" y="271.75" width="170" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="aEoq8TxtILYcBIewA853-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="aEoq8TxtILYcBIewA853-49" source="aEoq8TxtILYcBIewA853-54" target="aEoq8TxtILYcBIewA853-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aEoq8TxtILYcBIewA853-54" value="&lt;h2 data-pm-slice=&quot;1 1 []&quot; style=&quot;font-size: 11px;&quot;&gt;Рассылка уведомлений&lt;/h2&gt;&lt;p style=&quot;font-size: 11px;&quot;&gt;Отправка уведомлений ответственным сотрудникам о предстоящих работах.&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="aEoq8TxtILYcBIewA853-49">
+          <mxGeometry x="540" y="264.5" width="150" height="85.5" as="geometry" />
+        </mxCell>
+        <mxCell id="aEoq8TxtILYcBIewA853-55" value="&lt;h2 data-pm-slice=&quot;1 1 []&quot;&gt;Проведение ТО&lt;/h2&gt;&lt;p style=&quot;font-size: 9px;&quot;&gt;Исполнение работ, описанных в плане.&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aEoq8TxtILYcBIewA853-49">
+          <mxGeometry x="334" y="390" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="aEoq8TxtILYcBIewA853-56" value="&lt;h2 style=&quot;font-size: 10px;&quot; data-pm-slice=&quot;1 1 []&quot;&gt;Подготовка материалов&lt;/h2&gt;&lt;p style=&quot;font-size: 10px;&quot;&gt;Подготовка необходимых инструментов и материалов для выполнения ТО.&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="aEoq8TxtILYcBIewA853-49">
+          <mxGeometry x="102.5" y="530" width="125" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aEoq8TxtILYcBIewA853-57" value="&lt;h2 data-pm-slice=&quot;1 1 []&quot;&gt;Ведение контроля&lt;/h2&gt;&lt;p style=&quot;font-size: 9px;&quot;&gt;Контроль за качеством выполнения работ во время ТО.&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aEoq8TxtILYcBIewA853-49">
+          <mxGeometry x="580" y="530" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="aEoq8TxtILYcBIewA853-60" value="&lt;h2 style=&quot;font-size: 13px;&quot; data-pm-slice=&quot;1 1 []&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Завершить&lt;/font&gt;&lt;/h2&gt;&lt;p style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Заключение процесса с полностью документированным обслуживанием.&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="aEoq8TxtILYcBIewA853-49">
+          <mxGeometry x="270" y="880" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="aEoq8TxtILYcBIewA853-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.007;entryY=0.591;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="aEoq8TxtILYcBIewA853-49" source="aEoq8TxtILYcBIewA853-53" target="aEoq8TxtILYcBIewA853-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aEoq8TxtILYcBIewA853-59" value="&lt;h2 data-pm-slice=&quot;1 1 []&quot;&gt;Документирование&lt;/h2&gt;&lt;p style=&quot;font-size: 6px;&quot;&gt;Запись результатов проведенного технического обслуживания.&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="aEoq8TxtILYcBIewA853-49">
+          <mxGeometry x="290" y="680" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="aEoq8TxtILYcBIewA853-70" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="aEoq8TxtILYcBIewA853-49" source="aEoq8TxtILYcBIewA853-55" target="aEoq8TxtILYcBIewA853-57">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="280" as="sourcePoint" />
+            <mxPoint x="430" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="404" y="510" />
+              <mxPoint x="655" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aEoq8TxtILYcBIewA853-74" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="aEoq8TxtILYcBIewA853-49" source="aEoq8TxtILYcBIewA853-56" target="aEoq8TxtILYcBIewA853-59">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="670" as="sourcePoint" />
+            <mxPoint x="430" y="620" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="165" y="660" />
+              <mxPoint x="390" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aEoq8TxtILYcBIewA853-75" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="aEoq8TxtILYcBIewA853-49" source="aEoq8TxtILYcBIewA853-57" target="aEoq8TxtILYcBIewA853-59">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="670" as="sourcePoint" />
+            <mxPoint x="430" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aEoq8TxtILYcBIewA853-76" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="aEoq8TxtILYcBIewA853-49" source="aEoq8TxtILYcBIewA853-59" target="aEoq8TxtILYcBIewA853-60">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="770" as="sourcePoint" />
+            <mxPoint x="430" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aEoq8TxtILYcBIewA853-78" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.464;entryY=-0.028;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="aEoq8TxtILYcBIewA853-46" source="aEoq8TxtILYcBIewA853-41" target="aEoq8TxtILYcBIewA853-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="990" as="sourcePoint" />
+            <mxPoint x="430" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aEoq8TxtILYcBIewA853-86" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.416;entryY=-0.056;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="aEoq8TxtILYcBIewA853-56">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="1420" as="sourcePoint" />
+            <mxPoint x="440" y="1360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
